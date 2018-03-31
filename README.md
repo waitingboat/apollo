@@ -10,18 +10,18 @@
       <table>
         <tr>
           <td>
-            <a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">“无界”手机版</a>
+            <a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">下载“无界”手机版</a>
           </td>
           <td>
-            <a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgma.apk">“自由门”手机版</a>
+            <a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgma.apk">下载“自由门”手机版</a>
           </td>
         </tr>
         <tr>
           <td>
-            <a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip">“无界”电脑版</a>
+            <a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip">下载“无界”电脑版</a>
           </td>
           <td>
-            <a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip">“自由门”电脑版</a>
+            <a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip">下载“自由门”电脑版</a>
           </td>
         </tr>
       </table>
