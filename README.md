@@ -49,7 +49,7 @@
   <tr>
   <td align=center>
     <b>☆ 若收藏或分享本站，二维码在此▼</b></br>
-    <img src="http://pan.baidu.com/share/qrcode?w=200&h=200&url=https://github.com/waitingboat/apollo/blob/master/README.md" alt="">
+    <img src="http://qr.liantu.com/api.php?&w=200&m=10&text=https://github.com/waitingboat/apollo/blob/master/README.md" alt="">
   </td>
   </tr>
 </table>
