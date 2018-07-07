@@ -39,6 +39,9 @@
             <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址2</a>
           </td>
           <td>
+            <a href="https://github.com/zcgj/zcgj/blob/master/README.md">网址3</a>
+          </td>
+          <td>
             <a href="https://github.com/shortpathway/books/blob/master/README.md">禁书下载</a>
           </td>
         </tr>
@@ -49,7 +52,7 @@
   <tr>
   <td align=center>
     <b>☆ 若收藏或分享本站，二维码在此▼</b></br>
-    <img src="http://qr.liantu.com/api.php?&w=200&m=10&text=https://github.com/waitingboat/apollo/blob/master/README.md" alt="">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&qzone=1&data=https://github.com/waitingboat/apollo/blob/master/README.md" alt="">
   </td>
   </tr>
 </table>
