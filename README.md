@@ -13,7 +13,7 @@
             <a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">下载“无界”手机版</a>
           </td>
           <td>
-            <a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgma.apk">下载“自由门”手机版</a>
+            <a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk?raw=true">下载“网&nbsp;&nbsp;&nbsp;&nbsp;门”手机版</a>
           </td>
         </tr>
         <tr>
