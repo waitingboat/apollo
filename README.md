@@ -10,7 +10,7 @@
       <table>
         <tr>
           <td>
-            <a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">下载“无界”手机版</a>
+            <a href="https://raw.githubusercontent.com/osurf/osurf/master/um.apk">下载“无界”手机版</a>
           </td>
           <td>
             <a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk?raw=true">下载“网&nbsp;&nbsp;&nbsp;&nbsp;门”手机版</a>
@@ -18,7 +18,7 @@
         </tr>
         <tr>
           <td>
-            <a href="https://raw.githubusercontent.com/wujieliulan/download/master/u.zip">下载“无界”电脑版</a>
+            <a href="https://raw.githubusercontent.com/osurf/osurf/master/u.rar">下载“无界”电脑版</a>
           </td>
           <td>
             <a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip">下载“自由门”电脑版</a>
@@ -33,16 +33,19 @@
       <table>
         <tr>
           <td>
-            <a href="https://github.com/hao369/a/wiki/jyg">网址1</a>
+            <a href="https://github.com/hao369/a/wiki/jyg">入口</a>
           </td>
           <td>
-            <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址2</a>
+            <a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md">入口</a>
           </td>
           <td>
-            <a href="https://github.com/zcgj/zcgj/blob/master/README.md">网址3</a>
+            <a href="https://github.com/oGate2/oGate/blob/master/README.md">入口</a>
           </td>
           <td>
-            <a href="https://github.com/shortpathway/books/blob/master/README.md">禁书下载</a>
+            <a href="https://github.com/zcgj/zcgj/blob/master/README.md">入口</a>
+          </td>
+          <td>
+            <a href="https://github.com/shortpathway/books/blob/master/README.md">禁书</a>
           </td>
         </tr>
       </table>
