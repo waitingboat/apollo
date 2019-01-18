@@ -33,24 +33,24 @@
       <table>
         <tr>
           <td>
-            <a href="https://github.com/hao369/a/wiki/jyg">入口</a>
+            <a href="https://github.com/hao369/a/wiki/jyg">网址1</a>
           </td>
           <td>
-            <a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md">入口</a>
+            <a href="https://github.com/gfw-breaker/banned-news/blob/master/README.md">网址2</a>
           </td>
           <td>
-            <a href="https://github.com/oGate2/oGate/blob/master/README.md">入口</a>
+            <a href="https://github.com/oGate2/oGate/blob/master/README.md">网址3</a>
           </td>
           <td>
-            <a href="https://github.com/zcgj/zcgj/blob/master/README.md">入口</a>
-          </td>
-          <td>
-            <a href="https://github.com/shortpathway/books/blob/master/README.md">禁书</a>
+            <a href="https://github.com/zcgj/zcgj/blob/master/README.md">网址4</a>
           </td>
         </tr>
       </table>
       <b>#</b>如果网页加载缓慢，请耐心等待、刷新网页或更换其他网址尝试。
     </td>
+  </tr>
+  <tr>
+    <td>禁书阅读：<a href="https://github.com/bewake/books/blob/master/README.md">入口</a></td>
   </tr>
   <tr>
   <td align=center>
