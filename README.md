@@ -72,7 +72,7 @@
   <td align=center>
     </br>
     <b>☆ 若收藏或分享本站，二维码在此▼</b></br>
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&qzone=1&data=https://github.com/waitingboat/apollo/blob/master/README.md" alt="">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&qzone=1&data=https://github.com/waitingboat/apollo" alt="">
     </br></br>
   </td>
   </tr>
