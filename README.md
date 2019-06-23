@@ -22,6 +22,9 @@
         <li>
           <a href="https://raw.githubusercontent.com/freegate-release/website/gh-pages/files/fgp.zip">“自由门”电脑版</a>
         </li>
+        <li>
+          <a href="https://github.com/Alvin9999/new-pac/wiki">  一键翻墙浏览器</a>
+        </li>
       </ul>
       <b>#</b>软件绿色免费，欢迎使用与分享！
       </br>
